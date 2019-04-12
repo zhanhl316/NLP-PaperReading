@@ -4,7 +4,7 @@ Paper Reading in Natural Language Processing
 
 Content of papers
 ---------------------
-* [Classcical Model](https://github.com/ZhanHaolan316/NLP-PaperReading/tree/master/papers/dialog-system)
+* [Classcical Model](https://github.com/ZhanHaolan316/NLP-PaperReading/tree/master/papers/classical%20model)
 
 * [Dialog System](https://github.com/ZhanHaolan316/NLP-PaperReading/tree/master/papers/dialog-system)
 _____________________
@@ -15,6 +15,7 @@ Classical Model
 ---------------------
 * **Transformer**: "Attention is All You Need". NIPS-2017
 * **BERT**: "BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding". NAACL-2019
+* **ELMo**: "Deepcontextualizedwordrepresentations". NAACL-2018
 
 
 
